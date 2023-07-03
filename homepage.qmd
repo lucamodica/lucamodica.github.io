@@ -1,0 +1,26 @@
+---
+title: "Homepage"
+author: Luca Modica
+format:
+  html:
+    code-fold: true
+    code-tools: true
+jupyter: python3
+---
+
+## Hello there! 👋
+
+I'm Luca Modica, full-stack developer and aspirant data scientist / AI researcher, graduated at University of Turin in Computer Science. Also thanks to my thesis, I expand my topic of interest to social computing and HCI, in particular about the gamification of platforms🕹️.
+
+## Interest ✨
+Addicted by code, amazed by AI and affascinated by data science. Food&beer lover, owner of a doggo and average book enjoyer.
+
+
+Below a random penguin species scatterplot cuz why not 🐧.
+
+```{python}
+import seaborn as sns
+import matplotlib.pyplot as plt
+g = sns.FacetGrid(sns.load_dataset('penguins'), hue='species', height=3, aspect=3.5/1.5)
+g.map(plt.scatter, 'bill_length_mm', 'bill_depth_mm').add_legend()
+```
