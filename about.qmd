@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+## Hello there! 👋
+
+I'm Luca Modica, full-stack developer and aspirant data scientist / AI researcher, graduated at University of Turin in Computer Science. 👨🏻‍💻
+
+Also thanks to my thesis, I expand my topic of interest to social computing and HCI, in particular about the gamification of platforms 🕹️ (check out my bachelor's thesis work [here](https://github.com/lucamodica/bachelors-thesis)!).
+
+My current dream is to intersect these topics with my recent passion in artificial intelligence, in particular about SOTA neural networks 🧠 (Kaggle profile [here](https://www.kaggle.com/lucamodica)).
+
+## Interest ✨
+Addicted by code, amazed by AI and affascinated by data science. 🤖 Food&Beer lover 🍔🍻, owner of a doggo 🐶 and average book enjoyer. 📖
+
+I have a secret love for penguins. Below you will find a scatterplot of three of the many species, as a sign of appreciation. 💓🐧
+
+```{python}
+import seaborn as sns
+import matplotlib.pyplot as plt
+g = sns.FacetGrid(sns.load_dataset('penguins'), hue='species', height=3, aspect=3.5/1.5)
+g.map(plt.scatter, 'bill_length_mm', 'bill_depth_mm').add_legend()
+```
