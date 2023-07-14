@@ -4,16 +4,24 @@ project:
 website:
   title: "Luca Modica"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    left: 
+      - blog.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lucamodica
+      - icon: github
+        href: https://github.com/lucamodica
+      - icon: twitter
+        href: https://twitter.com/ThinkerBigger
+    
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
-    toc: true
+    mainfont: "Source Sans Pro"
+    linestretch: 1.5
 
 
 
