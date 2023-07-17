@@ -2,7 +2,8 @@
 image: propic.jpg
 title: "Luca Modica"
 about:
-  template: broadside
+  image-shape: round
+  template: solana
   links:
     - icon: twitter
       text: Twitter
