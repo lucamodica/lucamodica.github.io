@@ -10,4 +10,5 @@ listing:
 page-layout: full
 ---
 
+There are just a bunch of fake posts, sooner or later I will write something lol.
 

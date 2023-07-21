@@ -13,16 +13,13 @@ website:
         href: https://github.com/lucamodica
       - icon: twitter
         href: https://twitter.com/ThinkerBigger
+  description: "Luca Modica personal website."
     
 format:
   html:
     theme:
-      light:
-        - cosmo
-        - custom.scss
-      dark: 
-        - darkly
-        - custom.scss
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom.scss]
     css: styles.css
     code-fold: true
 

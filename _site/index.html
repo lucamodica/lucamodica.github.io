@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -151,61 +117,43 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-solana column-body">
+<div class="quarto-about-trestles">
   <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
+    <img src="img/propic.jpg" class="about-image
+  round " style="height: 20em; width: 20em;">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Luca Modica</h1>
 </div>
 <div class="quarto-title-meta">
   </div>
-</header> <div class="about-links">
-  <a href="https://twitter.com/ThinkerBigger" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://github.com/lucamodica" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://www.linkedin.com/in/lucamodica" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-</div>
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="hello-there" class="level2">
-<h2 data-anchor-id="hello-there">Hello there! 👋</h2>
-<p>I’m Luca Modica, full-stack developer and aspirant machine learning engineer / AI researcher, graduated at University of Turin in Computer Science. 👨🏻‍💻</p>
-<p>Also thanks to my thesis, I expand my topic of interest to social computing and HCI, in particular about the gamification of platforms 🕹️ (check out my bachelor’s thesis work <a href="https://github.com/lucamodica/bachelors-thesis">here</a>!).</p>
-<p>My current dream is to intersect these topics with my recent passion in artificial intelligence, in particular about SOTA neural networks 🧠 (Kaggle profile <a href="https://www.kaggle.com/lucamodica">here</a>).</p>
+</header>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
+<p>Hello there! My name is Luca Modica.</p>
+<p>I am a <strong>fellow researcher for the Social Computing group</strong> at the University of Turin. Also thanks to my <a href="https://github.com/lucamodica/bachelors-thesis">bachelor’s thesis</a>, I have interests in social computing and HCI, in particular the gamification of platforms.</p>
+<p>My current dream is to became a machine learning engineer / AI researcher, while exploring the world. For this reason, I will pursue a Master’s Degree in Data Science and AI at the Chalmers University of Technology, Göteborg.</p>
+<hr>
+<section id="some-facts" class="level2">
+<h2 data-anchor-id="some-facts">Some facts</h2>
+<ul>
+<li>Computer scientist at heart, with a Bachelor’s degree in Computer Science</li>
+<li>Guy amazed by AI and Data Science. ML, Neural Networks, generative AI and Human-Centered AI are really a thing</li>
+<li>Food&amp;Beer lover (just give me a stout and Sicilian food and I will be happy)</li>
+<li>Owner of a doggo. <a href="img/doggo-with-beard.jpg">Mine</a> rocks an awesome beard! :D</li>
+<li>Average book enjoyer (here is my <a href="https://www.goodreads.com/book/show/40180025-army-of-none">current reading</a>)</li>
+<li>calm being who love cultivating his passions and excited to share, work and hang out with others</li>
+<li>INSERT PERSONALITY and great open source supporter. I believe open source nowdays is crucial to live in a world with AI safety, rather than falling in an <a href="https://www.fast.ai/posts/2023-11-07-dislightenment.html">Age of Dislightenment</a>.</li>
+</ul>
 <hr>
 </section>
-<section id="interest" class="level2">
-<h2 data-anchor-id="interest">Interest ✨</h2>
-<p>Addicted by code, amazed by AI and affascinated by data science. 🤖 Food&amp;Beer lover 🍔🍻, owner of a doggo 🐶 and average book enjoyer. 📖</p>
-<p>I have a secret love for penguins. Below you will find a scatterplot of three of the many species, as a sign of appreciation. 💓🐧</p>
-<div class="cell" data-execution_count="1">
-<details>
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> seaborn <span class="im">as</span> sns</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>g <span class="op">=</span> sns.FacetGrid(sns.load_dataset(<span class="st">'penguins'</span>), hue<span class="op">=</span><span class="st">'species'</span>, height<span class="op">=</span><span class="dv">3</span>, aspect<span class="op">=</span><span class="fl">3.5</span><span class="op">/</span><span class="fl">1.5</span>)</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>g.<span class="bu">map</span>(plt.scatter, <span class="st">'bill_length_mm'</span>, <span class="st">'bill_depth_mm'</span>).add_legend()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output cell-output-display">
-<p><img src="index_files/figure-html/cell-2-output-1.png" width="773" height="278"></p>
-</div>
-</div>
+<section id="projects" class="level2">
+<h2 data-anchor-id="projects">Projects</h2>
+<p>In my free time I usually read, go outside jogging, play videogames and also do some random coding. You can find most of my code project and experiments in my <a href="https://github.com/lucamodica">Github page</a> and <a href="https://www.kaggle.com/lucamodica">Kaggle profile</a>.</p>
 
 
 </section>
 </main></div>
-    </div>
-    <img src="propic.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
-  </div>
 </div>
  <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

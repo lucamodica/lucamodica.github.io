@@ -1,38 +1,28 @@
 ---
-image: propic.jpg
+image: img/propic.jpg
 title: "Luca Modica"
 about:
   image-shape: round
-  template: solana
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ThinkerBigger
-    - icon: github
-      text: Github
-      href: https://github.com/lucamodica
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/lucamodica
+  template: trestles
 
 ---
+Hello there! My name is Luca Modica.
 
-## Hello there! 👋
+I am a __fellow researcher for the Social Computing group__ at the University of Turin. Also thanks to my [bachelor's thesis](https://github.com/lucamodica/bachelors-thesis), I have interests in social computing and HCI, in particular the gamification of platforms.
 
-I'm Luca Modica, full-stack developer and aspirant machine learning engineer / AI researcher, graduated at University of Turin in Computer Science. 👨🏻‍💻
-
-Also thanks to my thesis, I expand my topic of interest to social computing and HCI, in particular about the gamification of platforms 🕹️ (check out my bachelor's thesis work [here](https://github.com/lucamodica/bachelors-thesis)!).
-
-My current dream is to intersect these topics with my recent passion in artificial intelligence, in particular about SOTA neural networks 🧠 (Kaggle profile [here](https://www.kaggle.com/lucamodica)).
+My current dream is to became a machine learning engineer / AI researcher, while exploring the world. For this reason, I will pursue a Master's Degree in Data Science and AI at the Chalmers University of Technology, Göteborg.
 ---
-## Interest ✨
-Addicted by code, amazed by AI and affascinated by data science. 🤖 Food&Beer lover 🍔🍻, owner of a doggo 🐶 and average book enjoyer. 📖
 
-I have a secret love for penguins. Below you will find a scatterplot of three of the many species, as a sign of appreciation. 💓🐧
+## Some facts
+- Computer scientist at heart, with a Bachelor's degree in Computer Science
+- Guy amazed by AI and Data Science. ML, Neural Networks, generative AI and Human-Centered AI are really a thing
+- Food&Beer lover (just give me a stout and Sicilian food and I will be happy)
+- Owner of a doggo. [Mine](img/doggo-with-beard.jpg) rocks an awesome beard! :D 
+- Average book enjoyer (here is my [current reading](https://www.goodreads.com/book/show/40180025-army-of-none))
+- calm being who love cultivating his passions and excited to share, work and hang out with others
+- INSERT PERSONALITY and great open source supporter. I believe open source nowdays is crucial to live in a world with AI safety, rather than falling in an [Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html).
 
-```{python}
-import seaborn as sns
-import matplotlib.pyplot as plt
-g = sns.FacetGrid(sns.load_dataset('penguins'), hue='species', height=3, aspect=3.5/1.5)
-g.map(plt.scatter, 'bill_length_mm', 'bill_depth_mm').add_legend()
-```
+---
+## Projects
+
+In my free time I usually read, go outside jogging, play videogames and also do some random coding. You can find most of my code project and experiments in my [Github page](https://github.com/lucamodica) and [Kaggle profile](https://www.kaggle.com/lucamodica).
