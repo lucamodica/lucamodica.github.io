@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Luca Modica"
+  favicon: /img/favicon.png
   navbar:
     left: 
       - blog.qmd

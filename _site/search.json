@@ -28,46 +28,11 @@
     "text": "Hello there! My name is Luca Modica.\nI am a fellow researcher for the Social Computing group at the University of Turin. Also thanks to my bachelor’s thesis, I have interests in social computing and HCI, in particular the gamification of platforms.\nMy current dream is to became a machine learning engineer / AI researcher, while exploring the world. For this reason, I will pursue a Master’s Degree in Data Science and AI at the Chalmers University of Technology, Göteborg."
   },
   {
-    "objectID": "index.html#hello-there",
-    "href": "index.html#hello-there",
-    "title": "Luca Modica",
-    "section": "",
-    "text": "I’m Luca Modica, full-stack developer and aspirant machine learning engineer / AI researcher, graduated at University of Turin in Computer Science. 👨🏻‍💻\nAlso thanks to my thesis, I expand my topic of interest to social computing and HCI, in particular about the gamification of platforms 🕹️ (check out my bachelor’s thesis work here!).\nMy current dream is to intersect these topics with my recent passion in artificial intelligence, in particular about SOTA neural networks 🧠 (Kaggle profile here)."
-  },
-  {
-    "objectID": "index.html#interest",
-    "href": "index.html#interest",
-    "title": "💭Luca Modica",
-    "section": "✨Interest",
-    "text": "✨Interest\n\n🧠 Addicted by code, amazed by AI and affascinated by data science\n🍻 Food&Beer lover (just give me a stout and Sicilian food and I will be happy)\n🐶 Owner of a doggo (mine rocks an awesome beard :D)\n📖 Average book enjoyer.\n\nI have a secret love for penguins. Below you will find a scatterplot of three of the many species, as a sign of appreciation. 💓🐧\n\n\nCode\nimport seaborn as sns\nimport matplotlib.pyplot as plt\ng = sns.FacetGrid(sns.load_dataset('penguins'), hue='species', height=3, aspect=3.5/1.5)\ng.map(plt.scatter, 'bill_length_mm', 'bill_depth_mm').add_legend()"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Luca Modica",
-    "section": "About me",
-    "text": "About me\n\nComputer scientist at heart: I am skilled in\nAmazed by AI and affascinated by data science\nFood&Beer lover (just give me a stout and Sicilian food and I will be happy)\nOwner of a doggo. Mine rocks an awesome beard! :D\nAverage book enjoyer."
-  },
-  {
-    "objectID": "index.html#ok-but-who-i-am",
-    "href": "index.html#ok-but-who-i-am",
-    "title": "Luca Modica",
-    "section": "Ok, but who I am?",
-    "text": "Ok, but who I am?\n\nComputer scientist at heart, with a Bachelor’s degree in Computer Science\nAmazed by AI and affascinated by data science\nFood&Beer lover (just give me a stout and Sicilian food and I will be happy)\nOwner of a doggo. Mine rocks an awesome beard! :D\nAverage book enjoyer."
-  },
-  {
     "objectID": "index.html#some-facts",
     "href": "index.html#some-facts",
     "title": "Luca Modica",
     "section": "Some facts",
-    "text": "Some facts\n\nComputer scientist at heart, with a Bachelor’s degree in Computer Science\nGuy amazed by AI and Data Science. ML, Neural Networks, generative AI and Human-Centered AI are really a thing\nFood&Beer lover (just give me a stout and Sicilian food and I will be happy)\nOwner of a doggo. Mine rocks an awesome beard! :D\nAverage book enjoyer (here is my current reading)\ncalm being who love cultivating his passions and excited to share, work and hang out with others\nINSERT PERSONALITY and great open source supporter. I believe open source nowdays is crucial to live in a world with AI safety, rather than falling in an Age of Dislightenment."
-  },
-  {
-    "objectID": "index.html#project",
-    "href": "index.html#project",
-    "title": "Luca Modica",
-    "section": "Project",
-    "text": "Project"
+    "text": "Some facts\n\nComputer scientist at heart, with a Bachelor’s degree in Computer Science\nGuy amazed by AI and Data Science. ML, Neural Networks, generative AI and Human-Centered AI are really a thing\nFood&Beer lover (just give me a stout and Sicilian food and I will be happy)\nOwner of a doggo. Mine rocks an awesome beard! :D\nAverage book enjoyer (here is my current reading)\ncalm being who love cultivating his passions and excited to share, work and hang out with others\nINSERT PERSONALITY and great open source supporter. I believe OSS is crucial to live in a world with AI safety, rather than falling in an Age of Dislightenment."
   },
   {
     "objectID": "index.html#projects",
