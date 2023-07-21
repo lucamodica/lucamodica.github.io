@@ -20,7 +20,7 @@ My current dream is to became a machine learning engineer / AI researcher, while
 - Owner of a doggo. [Mine](img/doggo-with-beard.jpg) rocks an awesome beard! :D 
 - Average book enjoyer (here is my [current reading](https://www.goodreads.com/book/show/40180025-army-of-none))
 - calm being who love cultivating his passions and excited to share, work and hang out with others
-- INSERT PERSONALITY and great open source supporter. I believe OSS is crucial to live in a world with AI safety, rather than falling in an [Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html).
+- ENTJ-T and great open source supporter. I believe OSS is crucial to live in a world with AI safety, rather than falling in an [Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html).
 
 ---
 ## Projects
