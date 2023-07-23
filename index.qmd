@@ -1,12 +1,13 @@
 ---
 image: img/propic.jpg
 title: "Luca Modica"
+subtitle: "Fellow researcher and AI student"
 about:
   image-shape: round
   template: trestles
 
 ---
-Hello there! My name is Luca Modica.
+Hello there! Welcome to my personal website.
 
 I am a __fellow researcher for the Social Computing group__ at the University of Turin. Also thanks to my [bachelor's thesis](https://github.com/lucamodica/bachelors-thesis), I have interests in social computing and HCI, in particular the gamification of platforms.
 
@@ -14,7 +15,7 @@ My current dream is to became a machine learning engineer / AI researcher, while
 ---
 
 ## Some facts
-- Computer scientist at heart, with a Bachelor's degree in Computer Science
+- Computer scientist at heart, with a Bachelor's degree in Computer Science and a love for coding
 - Guy amazed by AI and Data Science. ML, Neural Networks, generative AI and Human-Centered AI are really a thing
 - Food&Beer lover (just give me a stout and Sicilian food and I will be happy)
 - Owner of a doggo. [Mine](img/doggo-with-beard.jpg) rocks an awesome beard! :D 
