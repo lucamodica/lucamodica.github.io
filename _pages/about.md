@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Deep Learning Researcher, Zenseact -- formerly at UniTo and Chalmers
 
 profile:
   align: right
   image: propic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Göteborg, Sweden</p>
+    Göteborg, Sweden
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Deep Learning Researcher at <a href='https://zenseact.com/'>Zenseact</a>, working on Multimodal Large Language (Action) models for end-to-end planning in autonomous driving. Previously, I completed my master's degree in Data Science and AI at <a href='https://www.chalmers.se/en/'>Chalmers University of Technology</a>, conducting a master's thesis on mechanistic interpretability and factuality of multimodal speech-language models with the <a href='https://dsai-nlp.github.io/'>NLP@DSAI group</a>. I have also been part of the <a href='https://informatica.unito.it/do/gruppi.pl/Show?_id=dtyo'> social computing group</a> at <a href='https://www.unito.it/'>University of Turin</a>, where I collaborated as research fellow for the <a href='https://www.firstlife.org/'>FirstLife</a> civic social network project.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research interests include Vision Language-Action Models, (mechanistic) interpretability of deep learning models, and their applications in autonomous driving. In my free time, you will probably find me running, bouldering, traveling✈️, or exploring the beutiful nature of Sweden🌲.

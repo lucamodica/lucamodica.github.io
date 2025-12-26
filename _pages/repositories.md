@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /code/
+title: code
+description: I have always been a great open source supporter, to ensure reproducibility of experiments and making knowledge more accessible. I believe OSS is crucial to live in a world with AI safety, rather than falling in an <a href='https://www.fast.ai/posts/2023-11-07-dislightenment.html'>Age of Dislightenment</a>.
 nav: true
 nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}
 
-## GitHub users
+## GitHub
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
