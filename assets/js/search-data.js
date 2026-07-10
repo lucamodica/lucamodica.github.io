@@ -44,11 +44,32 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-army-of-none",
+        },{id: "post-acl-2026",
+        
+          title: "ACL 2026!",
+        
+        description: "Some impressions of my first ever large AI conference, for the first time on the other side of the globe.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/acl-2026/";
+          
+        },
+      },{id: "books-army-of-none",
           title: 'Army of None',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/army_of_none/";
+              window.location.href = "/books/army-of-none/";
+            },},{id: "books-music-as-medicine",
+          title: 'Music as Medicine',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/music-as-medicine/";
+            },},{id: "books-the-book-of-why",
+          title: 'The Book of Why',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the-book-of-why/";
             },},{
         id: 'social-email',
         title: 'email',
