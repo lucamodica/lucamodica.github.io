@@ -6,8 +6,6 @@ cover: assets/img/book_covers/army_of_none.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 # isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Nonfiction Science War MilitaryFiction Technology Politics AI 
-tags: top-100
-buy_link: https://a.co/d/5JfUpFZ
 started: 2023-04-08
 finished: 2024-01-11
 released: 2018
