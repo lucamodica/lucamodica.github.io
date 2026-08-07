@@ -8,8 +8,8 @@ cover: assets/img/book_covers/the_book_of_why.jpeg
 categories: Science Nonfiction Philosophy ArtificialIntelligence Mathematics Computer Psychology Statistics Causality
 released: 2025
 stars: 4
-status: Paused
+status: Reading
 ---
 
-I have been paused this for a while, mainly to focus on other psycology books. Regardless, It is a precious book to be and really interesting book, to get first grasps of the causality inference framework. Or at least, these are concept I would use really often in my research, where I am interested on how a Vision Language-Action model would react to intervention in its pipeline, from what it can see to what it can reason about. It is also a good excuse to brush up some statistics concept, not gonna lie. 
+Decided to resume it again, attracted one more time by how Causality represents the missing piece for true Intelligence in Machines. Regardless, It is a precious book to be and really interesting book, to get first grasps of the causality inference framework. Or at least, these are concept I would use really often in my research, where I am interested on how a Vision Language-Action model would react to intervention in its pipeline, from what it can see to what it can reason about. It is also a good excuse to brush up some statistics concept, not gonna lie. 
 
